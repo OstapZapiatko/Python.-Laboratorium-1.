@@ -1,1 +1,0 @@
-# Python.-Laboratorium-1.
